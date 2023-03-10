@@ -1,0 +1,4 @@
+# File .gitignore
+
+# ignore directory .venv
+.venv/
